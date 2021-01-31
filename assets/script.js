@@ -22,6 +22,7 @@ function cityWeather(cityName) {
         var windEl = $("<p>").text("Wind Speed: " + response.wind.speed);
         var currentWeather = response.weather[0].main;
 
+        
     });
 }
 
