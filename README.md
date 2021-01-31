@@ -35,4 +35,4 @@ Please see an image of my application:
 
 # Purpose
 
-I believe the purpose of this assignment was to test my abilities in CSS, HTML, JavaScript, and teach me how to use APIs. I obviously do not have an application that works. I amd struggling to understand how to utilize the API and write the JavaScript for this. I will be resubmitting this in the future. 
+I believe the purpose of this assignment was to test my abilities in JavaScript and teach me how to use APIs. I struggled a lot on this assignment and need to come back to refactor the code/make the application work better.
